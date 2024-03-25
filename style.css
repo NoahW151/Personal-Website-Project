@@ -35,3 +35,7 @@ h1 {
 main {
     display: inline-flex;
 }
+
+.about {
+    font-size: 150%;
+}
