@@ -39,3 +39,7 @@ main {
 .about {
     font-size: 150%;
 }
+
+.portfolio {
+    list-style-type: none;
+}
