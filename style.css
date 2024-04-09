@@ -43,3 +43,13 @@ main {
 .portfolio {
     list-style-type: none;
 }
+
+#form {
+    display: flex;
+    flex-direction: column !important;
+}
+
+input[type="submit"] {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
